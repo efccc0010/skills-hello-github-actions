@@ -8,7 +8,8 @@ _Create and run a GitHub Actions workflow._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend, you've completed this course! :smile: :8ball: :soccer: :man_technologist:_
+
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
